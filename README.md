@@ -8,3 +8,6 @@ Prompts utilizados: Faça um texto para ebook, com foco em um diaeta balanceada 
 >deixa o texto enxuto
 >sempre traga exemplos de dieta falando o dialeto de um programador
 >Crie um nome
+
+segue o link do e-book
+https://www.canva.com/design/DAGKL7dsWd0/wJ_E-7651JoHR1uuLYflPA/edit?utm_content=DAGKL7dsWd0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
